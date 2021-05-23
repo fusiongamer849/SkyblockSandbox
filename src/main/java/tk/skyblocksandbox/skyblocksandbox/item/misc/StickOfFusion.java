@@ -35,7 +35,7 @@ public final class StickOfFusion extends SandboxItem {
         itemData.canHaveStars = false;
         itemData.canReforge = false;
 
-        itemData.rarity = MYTHIC;
+        itemData.rarity = SUPREME;
         itemData.itemType = ITEM;
 
         return itemData;
